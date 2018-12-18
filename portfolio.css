@@ -1,0 +1,66 @@
+.navbar-bar{
+	background-color: grey;
+	margin-top:-20px;
+	
+
+}
+
+.matrix{
+	position: relative;
+	text-align: center;
+}
+.pages{
+	float: right;
+	list-style-type: none;
+
+}
+.pgs{
+	display: inline-block;
+	position: relative;
+	top: -70px;
+	padding-right: 20px;
+
+}
+a	{
+	color: black;
+	text-decoration-line: none;
+}
+
+.ha{
+	text-align: center;
+	position: relative;
+	right: -150px
+}
+
+.bkg{
+	position: relative;
+	background-color: violet; 
+    		
+}
+
+.n{
+	background-color: violet;
+	position: relative;
+	
+}
+
+.bb{
+	position: relative;
+	text-align: center;
+	right: -10px
+}
+
+.k{
+    position: relative;
+	background-color: violet; 
+	
+}
+
+.nail{
+	position: relative;
+	text-align: center;
+}
+
+.f{
+	background-color: grey;
+}
